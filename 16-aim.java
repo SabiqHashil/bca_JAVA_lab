@@ -29,7 +29,6 @@ class Cylinder extends Sphere {
 
     public void readdata() {
         super.readdata();
-        ;
         r = 6;
         h = 4;
     }
